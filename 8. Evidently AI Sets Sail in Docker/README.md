@@ -1,0 +1,1 @@
+This guide explains how to set up a Streamlit application powered by Evidently AI within a Docker container. The application leverages Evidently AI to monitor machine learning models, offers an interactive dashboard in Streamlit, efficiently manages reports and projects, and utilizes Docker for seamless deployment and management.
